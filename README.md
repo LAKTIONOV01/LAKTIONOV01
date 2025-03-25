@@ -1,5 +1,8 @@
 ## Hi there 👋
-### My name is Pavel Laktionov and I'm a Python Developer. I'm from Belarus, living in Minsk.
+### My name is Pavel Laktionov and I'm a Python Developer 🐍. I'm from Belarus, living in Minsk.
+
+Contact to me
+<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
 
 <!--
 **LAKTIONOV01/LAKTIONOV01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
